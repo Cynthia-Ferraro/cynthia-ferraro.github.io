@@ -72,13 +72,10 @@ margin-top: 5px;
 margin-left: 20px;
 margin-right: 20px;
 margin-bottom: 5px;
-width: 100px;
+width: 300px;
 
 }
 
-p:hover {
-  width: 300px;
-}
 
 img {
   height: 200px;
