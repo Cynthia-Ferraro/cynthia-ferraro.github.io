@@ -1,0 +1,20 @@
+.row {
+  width: 100%;
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 16px
+
+}
+.column {
+  float: left;
+  margin-left: 50px;
+}
+.percent20 {
+  width: 20%;
+  background-color: grey;
+}
+
+.col-sm {
+  font-size: 16px;
+}
