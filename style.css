@@ -2,9 +2,10 @@ ul.navigation {
   background-color: white;
   display: block;
   list-style: none;
-  margin-top: 0;
+  margin-top: 5;
   width: 100%;
-  height: 35px;
+  height: 40px;
+  padding: 10px;
 }
 ul.navigation li {
   display: inline-block;
@@ -13,10 +14,10 @@ ul.navigation li {
 ul.navigation a {
   color: black;
   display: block;
-  padding: 10px;
+  padding: 20px;
   text-decoration: none;
-  font-size: 24px;
-  font-weight: bold; 
+  font-size: 20px;
+  font-weight: 200;
 
 }
 ul.navigation a:hover {
@@ -52,7 +53,7 @@ Body {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 300px;
+  height: 500px;
 
 }
 p em {
