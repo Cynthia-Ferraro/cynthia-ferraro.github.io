@@ -38,9 +38,6 @@ a:active {
   color: rgb(0,0,255);
 }
 
-a:mailto {
-  color: rgb(255,0,0);
-}
 
 Body {
   background-attachment: fixed;
@@ -80,7 +77,7 @@ margin-bottom: 5px;
 }
 
 img {
-  height: 400px;
+  height: 350px;
 }
 
 body {
