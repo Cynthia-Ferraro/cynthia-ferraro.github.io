@@ -1,5 +1,5 @@
 ul.navigation {
-  background-color: white;
+  background-color: rgb(63,64,63);
   display: block;
   list-style: none;
   margin-top: 5;
@@ -12,17 +12,17 @@ ul.navigation li {
   float: left;
 }
 ul.navigation a {
-  color: black;
+  color: rgb(230,232,230);
   display: block;
   padding: 20px;
   text-decoration: none;
   font-size: 20px;
   font-weight: 200;
-
+  font-family: sans-serif;
 }
 ul.navigation a:hover {
-  background-color: black;
-  color: white;
+  background-color: rgb(230,232,230);
+  color: black;
 }
 
 a:link {
@@ -60,7 +60,7 @@ p em {
   background-color: rgb(255,0.0);
 }
 p {
-background-color: rgb(244, 247, 250);
+background-color: rgb(159,184,173);
 
 font-family:'Verdana','Arial', sans-serif;
 font-size: 14px;
@@ -68,7 +68,7 @@ padding-top: 20px;
 padding-left: 10px;
 padding-bottom: 20px;
 padding-right: 10px;
-border: 3px solid rgb(59, 107, 91);
+border: 1px solid rgb(59, 107, 91);
 margin-top: 5px;
 margin-left: 20px;
 margin-right: 20px;
@@ -78,25 +78,25 @@ margin-bottom: 5px;
 
 
 img {
-  height: 200px;
+  height: 400px;
 
 }
 
 body {
-  background-color: rgb(151, 179, 163);
+  background-color: rgb(206,208,206);
 }
 
 #title {
   font-size: 50px;
   color: white;
-  background-color: Black;
+  background-color: rgb(63,64,63);
   text-align: center;
+  font-family: sans-serif;
 }
 .effect {
-    color: green;
-    text-transform: uppercase;
+    color: rgb(63,64,63);
 }
 .quotation {
     font-family: sans-serif;
-    color: green;
+    color: rgb(63,64,63);
 }
