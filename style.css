@@ -26,19 +26,22 @@ ul.navigation a:hover {
 }
 
 a:link {
-  color: rgb(255,0,0);
+  color: rgb(66, 82, 209);
 }
 a:visited {
-  color: rgb(0,255,0);
+  color: rgb(125, 75, 163);
 }
 a:hover {
-  color: rgb(255,0,255);
+  color: rgb(239, 237, 47);
 }
 a:active {
   color: rgb(0,0,255);
 }
 
+a:mailto {
+  color: rgb(255,0,0);
 }
+
 Body {
   background-attachment: fixed;
   /* background-image: url(splash.jpg); */
@@ -76,10 +79,8 @@ margin-bottom: 5px;
 
 }
 
-
 img {
   height: 400px;
-
 }
 
 body {
